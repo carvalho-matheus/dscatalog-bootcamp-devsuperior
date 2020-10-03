@@ -27,4 +27,4 @@
   mvnw<br>
   mvnw.cmd<br>
 
-# Criar a entidade Category
+- Criar a entidade Category
